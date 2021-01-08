@@ -1,6 +1,3 @@
-import { type } from "os";
-import { types } from "util";
-
 export type Product = {
     id: number;
     name: string;
